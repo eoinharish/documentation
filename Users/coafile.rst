@@ -162,7 +162,7 @@ Similarly, you can also set a value to multiple keys:
 ``key_1, key_2 = value`` is equivalent to ``key_1 = value`` and
 ``key_2 = value`` in separate lines.
 
-As the backslash is the escape character it is recommended to use
+As the backslash is the escape character it's recommended to use
 forward slashes as path separator even on Windows (to keep relative
 paths platform independent), use double-backslashes if you really mean a
 backslash in all places.
